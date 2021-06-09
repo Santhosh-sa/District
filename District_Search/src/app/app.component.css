@@ -1,0 +1,46 @@
+
+.dis{
+    padding-right: 3%;
+    padding-left: 3%;
+    text-align: center;
+        }
+  label{
+    padding-left: 2%;
+  }
+  html{
+    /*background-image: url("https://c.wallhere.com/photos/4e/fd/bridge_sea_india_art_train_sunrise_indian_colourful-981106.jpg!d");
+    /*background-color: #afa;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+  }
+  body{
+    width: 400px;
+    border:  black;
+    padding-top: 150px;
+    padding-left: 500px;
+    padding-right: 600px;
+    padding-bottom: 170px;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/48/50/00585a3568a0a7d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  form{
+    width: 400px;
+    border: solid black;
+    padding: 50px;
+    margin: 10px;
+    border-spacing: 400px;
+    
+  }
+  button{
+    border:none;
+    width: 190px;
+      color: #afa;
+    padding: 10px ;
+    border-radius: 20px;
+    background-color:black ;
+  }
+  .diss{
+    padding-right: 1%;
+  }
